@@ -13,7 +13,7 @@ A simple console-based ATM Management System built using Java.
 - Beginner-friendly Java OOP project 
 
 Technologies Used
-- Java 
+- Java  
 - OOP Concepts
 - Scanner Class
 
