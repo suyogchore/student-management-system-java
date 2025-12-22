@@ -24,5 +24,5 @@ Technologies Used
    java ATMApp
 
 
-Your Name
+Your Name :
 Suyog chore
