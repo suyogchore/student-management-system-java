@@ -1,6 +1,6 @@
 public class Student {
                    
-    private String name;
+    private String name;             
     private int rollNumber;            
             
     public Student(String name, int rollNumber) {   
@@ -20,6 +20,7 @@ public class Student {
         System.out.println("Name: " + name + " | Roll No: " + rollNumber);
     }
 }
+
 
 
 
