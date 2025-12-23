@@ -7,7 +7,7 @@ public class StudentManagementSystem {
     static Scanner sc = new Scanner(System.in);    
 
     public static void addStudent() {
-        System.out.print("Enter student name: ");
+        System.out.print("Enter student name: ");  
         String name = sc.nextLine();  
 
         System.out.print("Enter roll number: ");
@@ -59,6 +59,7 @@ public class StudentManagementSystem {
         }
     }
 }
+
 
 
 
