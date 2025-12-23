@@ -10,7 +10,7 @@ A simple console-based ATM Management System built using Java.
 - Deposit money                                                                  
 - Withdraw money        
 - Menu-driven program                                  
-- Beginner-friendly Java OOP project                 
+- Beginner-friendly Java OOP project                   
                                 
                 
 Technologies Used                  
