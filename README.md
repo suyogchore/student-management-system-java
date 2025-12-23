@@ -1,7 +1,7 @@
 # student-management-system-java.
 A simple console-based Student Management System built using Java and basic OOP concepts.          
             
- ATM Management System.    
+ ATM Management System.        
                
 A simple console-based ATM Management System built using Java.                              
                                            
