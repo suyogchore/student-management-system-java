@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class StudentManagementSystem {
   
     static ArrayList<Student> students = new ArrayList<>();  
-    static Scanner sc = new Scanner(System.in);  
+    static Scanner sc = new Scanner(System.in);    
 
     public static void addStudent() {
         System.out.print("Enter student name: ");
@@ -59,6 +59,7 @@ public class StudentManagementSystem {
         }
     }
 }
+
 
 
 
