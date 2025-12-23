@@ -19,7 +19,7 @@ Technologies Used
 - Scanner Class 
       
  How to Run
-1. Compile:  
+1. Compile:         
    javac ATM.java ATMApp.java         
 2. Run: 
    java ATMApp
