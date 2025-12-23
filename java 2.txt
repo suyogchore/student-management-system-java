@@ -9,7 +9,7 @@ public class Student {
     }    
   
     public String getName() {                
-        return name;
+        return name;  
     }   
 
     public int getRollNumber() {
@@ -20,6 +20,7 @@ public class Student {
         System.out.println("Name: " + name + " | Roll No: " + rollNumber);
     }
 }
+
 
 
 
