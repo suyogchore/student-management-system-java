@@ -6,7 +6,7 @@ public class StudentManagementSystem {
     static ArrayList<Student> students = new ArrayList<>();  
     static Scanner sc = new Scanner(System.in);         
 
-    public static void addStudent() {
+    public static void addStudent() {  
         System.out.print("Enter student name: ");  
         String name = sc.nextLine();  
   
@@ -59,6 +59,7 @@ public class StudentManagementSystem {
         }
     }
 }
+
 
 
 
