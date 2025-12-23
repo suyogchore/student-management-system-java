@@ -8,7 +8,7 @@ public class StudentManagementSystem {
 
     public static void addStudent() {
         System.out.print("Enter student name: ");
-        String name = sc.nextLine();
+        String name = sc.nextLine();  
 
         System.out.print("Enter roll number: ");
         int roll = sc.nextInt();
@@ -59,5 +59,6 @@ public class StudentManagementSystem {
         }
     }
 }
+
 
 
