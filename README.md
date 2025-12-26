@@ -11,9 +11,9 @@ A simple console-based ATM Management System built using Java.
 - Withdraw money                                
 - Menu-driven program                                                                                  
 - Beginner-friendly Java OOP project                                                                                 
-                                                      
+                                                        
                          
-Technologies Used                    
+Technologies Used :                   
 - Java                                                 
 - OOP Concepts                                        
 - Scanner Class   
