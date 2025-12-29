@@ -1,4 +1,4 @@
-# student-management-system-java.
+  # student-management-system-java.
 A simple console-based Student Management System built using Java and basic OOP concepts.          
                           
  ATM Management System.                          
@@ -23,6 +23,6 @@ Technologies Used :
    javac ATM.java ATMApp.java         
 2. Run: 
    java ATMApp
-
+ 
 Your Name :
 Suyog chore 
