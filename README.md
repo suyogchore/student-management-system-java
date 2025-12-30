@@ -23,5 +23,5 @@ Technologies Used
 2. Run: 
    java ATMApp
 
-Your Name : 
+Your Name :   
 Suyog chore   
