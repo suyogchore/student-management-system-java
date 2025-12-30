@@ -13,7 +13,7 @@ A simple console-based ATM Management System built using Java.
 - Menu-driven program                                                                                      
 - Beginner-friendly Java OOP project                                                                                            
                                                                                  
-                                                                        
+                                                                              
 Technologies Used                                       
 - Java                                                                 
 - OOP Concepts                                        
