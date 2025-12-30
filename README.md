@@ -7,8 +7,7 @@ ATM Management System
 A simple console-based ATM Management System built using Java.                                                          
                                                                                                                                        
  Features                                                                                                      
-- Check balance                                                                                                                                                                                  
-- Deposit money                                                                                                                                                                            - Withdraw money                                                                                                   
+- Check balance                                                                                                                                                                            - Deposit money                                                                                                                                                                            - Withdraw money                                                                                                   
 - Menu-driven program                                                                                                     
 - Beginner-friendly Java OOP project                                                                                                   
                                                                                         
@@ -25,4 +24,4 @@ Technologies Used
    java ATMApp
 
 Your Name : 
-Suyog chore 
+Suyog chore   
