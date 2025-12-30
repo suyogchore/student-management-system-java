@@ -14,7 +14,7 @@ A simple console-based ATM Management System built using Java.
                                                                                    
 Technologies Used                                                 
 - Java                                                                 
-- OOP Concepts                                          
+- OOP Concepts                                            
 - Scanner Class          
           
  How to Run             
