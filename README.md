@@ -8,10 +8,9 @@ A simple console-based ATM Management System built using Java.
                                                                                                                                
  Features                                                                                                      
 - Check balance                                                                                                                                                                           
-- Deposit money                                                                                                                                                                                      
-- Withdraw money                                                                                         
+- Deposit money                                                                                                                                                                            - Withdraw money                                                                                         
 - Menu-driven program                                                                                                     
-- Beginner-friendly Java OOP project                                                                                            
+- Beginner-friendly Java OOP project                                                                                              
                                                                                   
                                                                                  
 Technologies Used                                       
